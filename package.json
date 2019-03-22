@@ -1,0 +1,33 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "API for the Angular app.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node -r esm server.js",
+    "api": "node -r esm server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webtraining/api.git"
+  },
+  "keywords": [],
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.3",
+    "cookie-parser": "^1.4.4",
+    "csurf": "^1.9.0",
+    "esm": "^3.2.17",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.5.0",
+    "validator": "^10.11.0"
+  },
+  "devDependencies": {
+    "@types/compression": "^0.0.36",
+    "@types/cookie-parser": "^1.4.1",
+    "@types/csurf": "^1.9.35",
+    "@types/express": "^4.16.1",
+    "@types/jsonwebtoken": "^8.3.2",
+    "@types/node": "^10.14.1"
+  }
+}

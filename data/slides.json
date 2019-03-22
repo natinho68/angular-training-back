@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "movieId": 5,
+    "imgSrc": "api/images/movies/coco.jpg",
+    "imgSrcFull": "api/images/movies/coco-full.jpg",
+    "imgAlt": "Coco"
+  },
+  {
+    "id": 2,
+    "movieId": 4,
+    "imgSrc": "api/images/movies/spiderman.jpg",
+    "imgSrcFull": "api/images/movies/spiderman-full.jpg",
+    "imgAlt": "Spiderman"
+  },
+  {
+    "id": 3,
+    "movieId": 6,
+    "imgSrc": "api/images/movies/starwars.jpg",
+    "imgSrcFull": "api/images/movies/starwars-full.jpg",
+    "imgAlt": "Star Wars : The Last Jedi"
+  }
+]

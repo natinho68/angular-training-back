@@ -1,0 +1,434 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "theaterId": 1,
+    "hour": "16:30"
+  },
+  {
+    "id": 2,
+    "movieId": 1,
+    "theaterId": 1,
+    "hour": "19:30"
+  },
+  {
+    "id": 3,
+    "movieId": 1,
+    "theaterId": 1,
+    "hour": "22:30"
+  },
+  {
+    "id": 4,
+    "movieId": 2,
+    "theaterId": 1,
+    "hour": "16:45"
+  },
+  {
+    "id": 5,
+    "movieId": 2,
+    "theaterId": 1,
+    "hour": "20:15"
+  },
+  {
+    "id": 6,
+    "movieId": 2,
+    "theaterId": 1,
+    "hour": "22:30"
+  },
+  {
+    "id": 7,
+    "movieId": 3,
+    "theaterId": 1,
+    "hour": "15:30"
+  },
+  {
+    "id": 8,
+    "movieId": 3,
+    "theaterId": 1,
+    "hour": "20:30"
+  },
+  {
+    "id": 9,
+    "movieId": 3,
+    "theaterId": 1,
+    "hour": "21:30"
+  },
+  {
+    "id": 10,
+    "movieId": 4,
+    "theaterId": 1,
+    "hour": "17:30"
+  },
+  {
+    "id": 11,
+    "movieId": 4,
+    "theaterId": 1,
+    "hour": "20:30"
+  },
+  {
+    "id": 12,
+    "movieId": 4,
+    "theaterId": 1,
+    "hour": "22:45"
+  },
+  {
+    "id": 13,
+    "movieId": 5,
+    "theaterId": 1,
+    "hour": "16:20"
+  },
+  {
+    "id": 14,
+    "movieId": 5,
+    "theaterId": 1,
+    "hour": "19:45"
+  },
+  {
+    "id": 15,
+    "movieId": 5,
+    "theaterId": 1,
+    "hour": "21:30"
+  },
+  {
+    "id": 16,
+    "movieId": 6,
+    "theaterId": 1,
+    "hour": "16:35"
+  },
+  {
+    "id": 17,
+    "movieId": 6,
+    "theaterId": 1,
+    "hour": "19:40"
+  },
+  {
+    "id": 18,
+    "movieId": 6,
+    "theaterId": 1,
+    "hour": "22:10"
+  },
+  {
+    "id": 19,
+    "movieId": 1,
+    "theaterId": 2,
+    "hour": "15:45"
+  },
+  {
+    "id": 20,
+    "movieId": 1,
+    "theaterId": 2,
+    "hour": "20:00"
+  },
+  {
+    "id": 21,
+    "movieId": 1,
+    "theaterId": 2,
+    "hour": "22:45"
+  },
+  {
+    "id": 22,
+    "movieId": 2,
+    "theaterId": 2,
+    "hour": "17:10"
+  },
+  {
+    "id": 23,
+    "movieId": 2,
+    "theaterId": 2,
+    "hour": "20:20"
+  },
+  {
+    "id": 24,
+    "movieId": 2,
+    "theaterId": 2,
+    "hour": "22:00"
+  },
+  {
+    "id": 25,
+    "movieId": 3,
+    "theaterId": 2,
+    "hour": "16:45"
+  },
+  {
+    "id": 26,
+    "movieId": 3,
+    "theaterId": 2,
+    "hour": "19:00"
+  },
+  {
+    "id": 27,
+    "movieId": 3,
+    "theaterId": 2,
+    "hour": "21:45"
+  },
+  {
+    "id": 28,
+    "movieId": 4,
+    "theaterId": 2,
+    "hour": "16:45"
+  },
+  {
+    "id": 29,
+    "movieId": 4,
+    "theaterId": 2,
+    "hour": "19:00"
+  },
+  {
+    "id": 30,
+    "movieId": 4,
+    "theaterId": 2,
+    "hour": "22:05"
+  },
+  {
+    "id": 31,
+    "movieId": 5,
+    "theaterId": 2,
+    "hour": "15:50"
+  },
+  {
+    "id": 32,
+    "movieId": 5,
+    "theaterId": 2,
+    "hour": "18:30"
+  },
+  {
+    "id": 33,
+    "movieId": 5,
+    "theaterId": 2,
+    "hour": "21:15"
+  },
+  {
+    "id": 34,
+    "movieId": 6,
+    "theaterId": 2,
+    "hour": "15:55"
+  },
+  {
+    "id": 35,
+    "movieId": 6,
+    "theaterId": 2,
+    "hour": "20:05"
+  },
+  {
+    "id": 36,
+    "movieId": 6,
+    "theaterId": 2,
+    "hour": "22:40"
+  },
+  {
+    "id": 37,
+    "movieId": 1,
+    "theaterId": 3,
+    "hour": "16:45"
+  },
+  {
+    "id": 38,
+    "movieId": 1,
+    "theaterId": 3,
+    "hour": "20:15"
+  },
+  {
+    "id": 39,
+    "movieId": 1,
+    "theaterId": 3,
+    "hour": "22:00"
+  },
+  {
+    "id": 40,
+    "movieId": 2,
+    "theaterId": 3,
+    "hour": "17:05"
+  },
+  {
+    "id": 41,
+    "movieId": 2,
+    "theaterId": 3,
+    "hour": "20:10"
+  },
+  {
+    "id": 42,
+    "movieId": 2,
+    "theaterId": 3,
+    "hour": "22:05"
+  },
+  {
+    "id": 43,
+    "movieId": 3,
+    "theaterId": 3,
+    "hour": "16:50"
+  },
+  {
+    "id": 44,
+    "movieId": 3,
+    "theaterId": 3,
+    "hour": "18:15"
+  },
+  {
+    "id": 45,
+    "movieId": 3,
+    "theaterId": 3,
+    "hour": "22:30"
+  },
+  {
+    "id": 46,
+    "movieId": 4,
+    "theaterId": 3,
+    "hour": "16:50"
+  },
+  {
+    "id": 47,
+    "movieId": 4,
+    "theaterId": 3,
+    "hour": "20:30"
+  },
+  {
+    "id": 48,
+    "movieId": 4,
+    "theaterId": 3,
+    "hour": "21:45"
+  },
+  {
+    "id": 49,
+    "movieId": 5,
+    "theaterId": 3,
+    "hour": "15:45"
+  },
+  {
+    "id": 50,
+    "movieId": 5,
+    "theaterId": 3,
+    "hour": "19:15"
+  },
+  {
+    "id": 51,
+    "movieId": 5,
+    "theaterId": 3,
+    "hour": "21:00"
+  },
+  {
+    "id": 52,
+    "movieId": 6,
+    "theaterId": 3,
+    "hour": "16:10"
+  },
+  {
+    "id": 53,
+    "movieId": 6,
+    "theaterId": 3,
+    "hour": "20:20"
+  },
+  {
+    "id": 54,
+    "movieId": 6,
+    "theaterId": 3,
+    "hour": "22:30"
+  },
+  {
+    "id": 55,
+    "movieId": 1,
+    "theaterId": 4,
+    "hour": "17:00"
+  },
+  {
+    "id": 56,
+    "movieId": 1,
+    "theaterId": 4,
+    "hour": "19:00"
+  },
+  {
+    "id": 57,
+    "movieId": 1,
+    "theaterId": 4,
+    "hour": "22:15"
+  },
+  {
+    "id": 58,
+    "movieId": 2,
+    "theaterId": 4,
+    "hour": "17:20"
+  },
+  {
+    "id": 59,
+    "movieId": 2,
+    "theaterId": 4,
+    "hour": "18:40"
+  },
+  {
+    "id": 60,
+    "movieId": 2,
+    "theaterId": 4,
+    "hour": "22:15"
+  },
+  {
+    "id": 61,
+    "movieId": 3,
+    "theaterId": 4,
+    "hour": "17:10"
+  },
+  {
+    "id": 62,
+    "movieId": 3,
+    "theaterId": 4,
+    "hour": "19:35"
+  },
+  {
+    "id": 63,
+    "movieId": 3,
+    "theaterId": 4,
+    "hour": "22:10"
+  },
+  {
+    "id": 64,
+    "movieId": 4,
+    "theaterId": 4,
+    "hour": "15:00"
+  },
+  {
+    "id": 65,
+    "movieId": 4,
+    "theaterId": 4,
+    "hour": "18:00"
+  },
+  {
+    "id": 66,
+    "movieId": 4,
+    "theaterId": 4,
+    "hour": "21:15"
+  },
+  {
+    "id": 67,
+    "movieId": 5,
+    "theaterId": 4,
+    "hour": "17:10"
+  },
+  {
+    "id": 68,
+    "movieId": 5,
+    "theaterId": 4,
+    "hour": "19:20"
+  },
+  {
+    "id": 69,
+    "movieId": 5,
+    "theaterId": 4,
+    "hour": "22:00"
+  },
+  {
+    "id": 70,
+    "movieId": 6,
+    "theaterId": 4,
+    "hour": "17:10"
+  },
+  {
+    "id": 71,
+    "movieId": 6,
+    "theaterId": 4,
+    "hour": "19:30"
+  },
+  {
+    "id": 72,
+    "movieId": 6,
+    "theaterId": 4,
+    "hour": "22:15"
+  }
+]

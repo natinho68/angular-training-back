@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "title": "Nicky Larson",
+    "category": "Fantastique",
+    "categoryId": 2,
+    "summary": "Nicky Larson est le meilleur des gardes du corps, un détective privé hors-pair. Il est appelé pour une mission à hauts risques : récupérer le parfum de Cupidon, un parfum qui rendrait irrésistible celui qui l’utilise...",
+    "releasedDate": "2019-02-06",
+    "imgSrc": "api/images/movies/nickylarson.jpg",
+    "videoSrc": "https://www.youtube.com/embed/jcfYjOEiddY",
+    "schedulesIds": [16, 17, 18, 34, 35, 36, 52, 53, 54, 70, 71, 72]
+  },
+  {
+    "id": 2,
+    "title": "Green Book",
+    "category": "Drame",
+    "categoryId": 3,
+    "summary": "En 1962, alors que règne la ségrégation, Tony Lip, un videur italo-américain du Bronx, est engagé pour conduire et protéger le Dr Don Shirley, un pianiste noir de renommée mondiale, lors d’une tournée de concerts. Durant leur périple de Manhattan jusqu’au Sud profond, ils s’appuient sur le Green Book pour dénicher les établissements accueillant les personnes de couleur, où l’on ne refusera pas de servir Shirley et où il ne sera ni humilié ni maltraité.",
+    "releasedDate": "2019-01-23",
+    "imgSrc": "api/images/movies/greenbook.jpg",
+    "videoSrc": "https://www.youtube.com/embed/QkZxoko_HC0",
+    "schedulesIds": [10, 11, 12, 28, 29, 30, 46, 47, 48, 64, 65, 66]
+  },
+  {
+    "id": 3,
+    "title": "Fight Club",
+    "category": "Drame",
+    "categoryId": 3,
+    "summary": "Le narrateur, sans identité précise, vit seul, travaille seul, dort seul, mange seul ses plateaux-repas pour une personne comme beaucoup d'autres personnes seules qui connaissent la misère humaine, morale et sexuelle. C'est pourquoi il va devenir membre du Fight club, un lieu clandestin ou il va pouvoir retrouver sa virilité, l'échange et la communication. Ce club est dirigé par Tyler Durden, une sorte d'anarchiste entre gourou et philosophe qui prêche l'amour de son prochain.",
+    "releasedDate": "1999-11-10",
+    "imgSrc": "api/images/movies/fightclub.jpg",
+    "videoSrc": "https://www.youtube.com/embed/SUXWAEX2jlg",
+    "schedulesIds": [7, 8, 9, 25, 26, 27, 43, 44, 45, 61, 62, 63]
+  },
+  {
+    "id": 4,
+    "title": "Spider-man",
+    "category": "Fantastique",
+    "categoryId": 2,
+    "summary": "Après ses spectaculaires débuts dans Captain America : Civil War, le jeune Peter Parker découvre peu à peu sa nouvelle identité, celle de Spider-Man, le super-héros lanceur de toile. Galvanisé par son expérience avec les Avengers, Peter rentre chez lui auprès de sa tante May, sous l’œil attentif de son nouveau mentor, Tony Stark. Il s’efforce de reprendre sa vie d’avant, mais au fond de lui, Peter rêve de se prouver qu’il est plus que le sympathique super héros du quartier.",
+    "releasedDate": "2017-07-12",
+    "imgSrc": "api/images/movies/spiderman.jpg",
+    "videoSrc": "https://www.youtube.com/embed/39udgGPyYMg",
+    "schedulesIds": [4, 5, 6, 22, 23, 24, 40, 41, 42, 58, 59, 60]
+  },
+  {
+    "id": 5,
+    "title": "Coco",
+    "category": "Fantastique",
+    "categoryId": 2,
+    "summary": "Depuis déjà plusieurs générations, la musique est bannie dans la famille de Miguel. Un vrai déchirement pour le jeune garçon dont le rêve ultime est de devenir un musicien aussi accompli que son idole, Ernesto de la Cruz.",
+    "releasedDate": "2017-11-29",
+    "imgSrc": "api/images/movies/coco.jpg",
+    "videoSrc": "https://www.youtube.com/embed/bvomHFZO0mk",
+    "schedulesIds": [16, 17, 18, 34, 35, 36, 52, 53, 54, 70, 71, 72]
+  },
+  {
+    "id": 6,
+    "title": "Star Wars : The Last Jedi",
+    "category": "Science fiction",
+    "categoryId": 1,
+    "summary": "Les héros du Réveil de la force rejoignent les figures légendaires de la galaxie dans une aventure épique qui révèle des secrets ancestraux sur la Force et entraîne de surprenantes révélations sur le passé...",
+    "releasedDate": "2017-12-13",
+    "imgSrc": "api/images/movies/starwars.jpg",
+    "videoSrc": "https://www.youtube.com/embed/zB4I68XVPzQ",
+    "schedulesIds": [13, 14, 15, 31, 32, 33, 49, 50, 51, 67, 68, 69]
+  }
+]
